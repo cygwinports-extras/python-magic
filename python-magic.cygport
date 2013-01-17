@@ -3,7 +3,7 @@ inherit python-distutils
 
 NAME="python-magic"
 VERSION=0.4.3
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="Python libmagic bindings"
 DESCRIPTION="python-magic is a python interface to the libmagic filetype
